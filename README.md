@@ -1,4 +1,4 @@
-# M4-ponderadas3  
+# M4-ponderada 3 
 Ponderada 3 do módulo 4  
 
 ## Descrição  
@@ -24,3 +24,11 @@ Essa função é usada para acionar:
 - **Vermelho** por 6 segundos.
 - **Amarelo** por 2 segundos.
 - **Verde** por 4 segundos.  
+
+## Avaliação de pares:
+
+Trabalho do Felipe Viana: 
+Apresentou semáforo funcional seguindo os requisitos mínimos com os intervalos de segundos corretos e foi além ao adicionar um capacitor para armazenar energia a ser utilizada no semáforo. Nota 10, seguindo como racíocinio que apresentou os requisitos mínimos funcionando e foi além, de sua própria maneira.
+
+Trabalho do Leonardo Lameda:
+Apresentou semáforo funcional seguindo os requisistos mínimos com os intervalos de segundos corretos e foi além adicionando uma placa LCD que faz contagem dos segundos no vermelho e no verde e sinaliza cuidado enquanto o semáforo está no amarelo. Nota 10, seguindo como racíocinio que apresentou os requisitos mínimos funcionando e foi além da sua forma única.
