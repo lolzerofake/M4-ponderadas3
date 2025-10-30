@@ -23,12 +23,24 @@ A função `temp(int n, byte *COLOR)`:
 Essa função é usada para acionar:
 - **Vermelho** por 6 segundos.
 - **Amarelo** por 2 segundos.
-- **Verde** por 4 segundos.  
+- **Verde** por 4 segundos.
 
+
+## Lista de Materiais
+
+- **6 Jumpers Fêmea-Macho** 
+- **3 Leds de cores vermelho, amarelo e verde**
+- **3 Resistores de 220 Ohms**
+- **1 Placa Arduino Uno**
+- **1 Maquete de madeira de semáforo**
 ## Avaliação de pares:
 
-Trabalho do Felipe Viana: 
-Apresentou semáforo funcional seguindo os requisitos mínimos com os intervalos de segundos corretos e foi além ao adicionar um capacitor para armazenar energia a ser utilizada no semáforo. Nota 10, seguindo como racíocinio que apresentou os requisitos mínimos funcionando e foi além, de sua própria maneira.
+Revisão do Felipe Viana: 
+Pendente
 
-Trabalho do Leonardo Lameda:
-Apresentou semáforo funcional seguindo os requisistos mínimos com os intervalos de segundos corretos e foi além adicionando uma placa LCD que faz contagem dos segundos no vermelho e no verde e sinaliza cuidado enquanto o semáforo está no amarelo. Nota 10, seguindo como racíocinio que apresentou os requisitos mínimos funcionando e foi além da sua forma única.
+Revisão do Leonardo Lameda:
+A montagem está descrita corretamente, com LEDs ligados à protoboard, resistores no negativo e GND conectado à placa, mostrando compreensão do circuito. O código atende à lógica exigida (6s vermelho, 4s verde, 2s amarelo) e ainda utiliza ponteiros, o que demonstra domínio técnico acima do básico.
+No entanto, não ficou claro se o autor aparece no vídeo conforme solicitado.
+Pontos positivos: funcionamento correto, lógica implementada, boa estrutura de código.
+A melhorar:  contextualizar mais a introdução da documentação e mostrar presença do autor no vídeo.
+Nota sugerida: 9/10
