@@ -43,4 +43,4 @@ A montagem está descrita corretamente, com LEDs ligados à protoboard, resistor
 No entanto, não ficou claro se o autor aparece no vídeo conforme solicitado.
 Pontos positivos: funcionamento correto, lógica implementada, boa estrutura de código.
 A melhorar:  contextualizar mais a introdução da documentação e mostrar presença do autor no vídeo.
-Nota sugerida: 9/10
+Nota sugerida: 9.5/10
