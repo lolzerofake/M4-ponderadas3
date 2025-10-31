@@ -35,8 +35,9 @@ Essa função é usada para acionar:
 - **1 Maquete de madeira de semáforo**
 ## Avaliação de pares:
 
-Revisão do Felipe Viana: 
-Pendente
+Revisão do Enzo Matsui: 
+A explicação da montagem está adequada, com os LEDs corretamente conectados à protoboard, resistores posicionados no terminal negativo e ligação ao GND da placa, evidenciando compreensão do funcionamento do circuito. O código cumpre os tempos exigidos (vermelho por 6s, verde por 4s e amarelo por 2s) e faz uso de ponteiros, recurso que demonstra bom domínio técnico e atenção à eficiência.
+Entretanto, não há confirmação visual da presença do autor na gravação, requisito solicitado para a entrega.
 
 Revisão do Leonardo Lameda:
 A montagem está descrita corretamente, com LEDs ligados à protoboard, resistores no negativo e GND conectado à placa, mostrando compreensão do circuito. O código atende à lógica exigida (6s vermelho, 4s verde, 2s amarelo) e ainda utiliza ponteiros, o que demonstra domínio técnico acima do básico.
